@@ -6,7 +6,7 @@
 
 I am a student of the Federal Institute of Bahia, attending the course of Information Technology.I started programming past year with Python and JavaScript languages to create and contribute on projects.
 <p>
-- I'm currently working on: <a href="https://github.com/Weslley-Borges/Labmistry">Labmistry</a> and <a href="https://github.com/Weslley-Borges/LaraStack">LaraStack</a>.</br>
+- I'm currently working on: <a href="https://github.com/Weslley-Borges/Labmistry">Labmistry</a> and <a href="https://github.com/Weslley-Borges/Telegram_LaraStack">LaraStack</a>.</br>
 - I'm currently learning: Go <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="20" />.
 </p>
 
