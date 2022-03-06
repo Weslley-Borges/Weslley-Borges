@@ -11,7 +11,7 @@ I am a student of the Federal Institute of Bahia, attending the course of Inform
 </p>
 <p align="center">
 - I'm currently working on: <a href="https://github.com/Weslley-Borges/EcoSimulator">EcoSimulator</a>.</br>
-- I'm currently learning: Python <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="" height="20" />.
+- I'm currently learning: Java <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="" height="20" />.
 </p>
 
 <h4 align="center"><strong>Languages</strong></h4>
