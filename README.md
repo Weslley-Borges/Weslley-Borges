@@ -28,8 +28,3 @@
     </td>
   </tr>
 </table>
-
-<p align=center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Borges&hide=html&layout=compact&theme=radical" alt="Weslleys's languages rate"/>
-</p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Weslley-Borges&theme=tokyo-night" alt="Weslleys's github activity" />
