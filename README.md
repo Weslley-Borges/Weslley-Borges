@@ -12,7 +12,7 @@
       </p>
       <ul>
         <li>I'm currently working on: <a href="https://github.com/Weslley-Borges/EcoSimulator">EcoSimulator</a></li>
-        <li>I'm currently learning: C/C++ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="" height="20" /></li>
+        <li>I'm currently learning: Java <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="" height="20" /></li>
       </ul>
     </td>
     <td>
@@ -28,3 +28,7 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Borges&layout=donut&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" align="center"/>
+</p>
