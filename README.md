@@ -11,8 +11,9 @@
         I am a student of the Federal Institute of Bahia, attending the course of Information Technology. I started programming in 2020 with Python and JavaScript    languages to create and contribute on projects.
       </p>
       <ul>
-        <li>I'm currently working on: <a href="https://github.com/Weslley-Borges/EcoSimulator">EcoSimulator</a></li>
-        <li>I'm currently learning: Java <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="" height="20" /></li>
+        <li>I'm currently working on: <a href="https://github.com/Weslley-Borges/TXTSoccer">TXTSoccer</a></li>
+        <li>I'm currently learning: <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" /></a>  
+</div></li>
       </ul>
     </td>
     <td>
