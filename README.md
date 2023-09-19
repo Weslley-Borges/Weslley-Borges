@@ -8,18 +8,18 @@
   <tr>
     <td width="50%">
       <p>
-        I am a student of the Federal Institute of Bahia, attending the course of Information Technology. I started programming in 2020 with Python and JavaScript    languages to create and contribute on projects.
+        I study at the Federal Institute of Science, Education and Technology of Bahia, on the technical course in Information Technology. I started programming in 2020.
       </p>
       <ul>
         <li>I'm currently working on: <a href="https://github.com/Weslley-Borges/TXTSoccer">TXTSoccer</a></li>
-        <li>I'm currently learning: <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" /></a>  
+        <li>I'm currently learning: <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" /></a>  +  <img style="height:50" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="30" />
 </div></li>
       </ul>
     </td>
     <td>
       <p align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="Python" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+        <img style="height:50" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
@@ -30,6 +30,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Borges&layout=donut&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" align="center"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Borges&layout=compact&langs_count=8&text_color=fff&title_color=fff&bg_color=000&hide_border=true" align="center" height=200/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Weslley-Borges&count_private=true&show_icons=true&bg_color=0,000,bf0000&icon_color=f2ec00&text_color=fff&title_color=fff&hide_border=true" align="center" height=200/>
+</div>
+
